@@ -1,0 +1,11 @@
+com.c2g4.SingHealthWebApp
+com.c2g4.SingHealthWebApp.Admin.Controllers
+com.c2g4.SingHealthWebApp.Admin.Models
+com.c2g4.SingHealthWebApp.Admin.Report
+com.c2g4.SingHealthWebApp.Admin.Repositories
+com.c2g4.SingHealthWebApp.Chat
+com.c2g4.SingHealthWebApp.CustomUtilities
+com.c2g4.SingHealthWebApp.JWT
+com.c2g4.SingHealthWebApp.Lease
+com.c2g4.SingHealthWebApp.Notifications
+com.c2g4.SingHealthWebApp.Others

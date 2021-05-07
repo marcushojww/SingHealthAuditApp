@@ -1,0 +1,14 @@
+"branch_id";"address";"no_of_tenants";"no_of_auditors"
+"*";"*";-1;-1
+"Academia";"20 College Road, Singapore 169856";1;-1
+"Block_A";"Singapore 123456";2;2
+"Block_B";"Singapore 123456";2;2
+"BVH";"5 Lor Napiri, Singapore 547530";1;-1
+"CGH";"2 Simei Street 3, Singapore 529889";10;-1
+"HQ";"Singapore 123456";0;0
+"KKH";"100 Bukit Timah Rd, Singapore 229899";18;-1
+"NCCS";"11 Hospital Crescent, Singapore 169610";1;-1
+"NHCS";"5 Hospital Dr, Singapore 169609";2;-1
+"OCH";"10 Hospital Blvd, Singapore 168582";3;-1
+"SGH";"Outram Rd, Singapore 169608";12;-1
+"SKH";"110 Sengkang E Way, Singapore 544886";13;-1
